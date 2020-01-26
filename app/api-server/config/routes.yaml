@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+generate_token:
+  path: /api/generate_token
+  methods: ['POST']

@@ -1,0 +1,11 @@
+/app/api-server/vendor
+/app/api-server/.env
+/app/api-server/.phpunit.result.cache
+/app/api-server/Homestead.json
+/app/api-server/Homestead.yaml
+/app/api-server/npm-debug.log
+/app/api-server/yarn-error.log
+/app/api-server/composer.lock
+.idea
+.DS_Store
+.env
